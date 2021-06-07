@@ -16,5 +16,5 @@ $ docker-compose down --volumes
 ## Start the Server 
 
 ```
-./src/server.js
+node ./src/server.js
 ```
